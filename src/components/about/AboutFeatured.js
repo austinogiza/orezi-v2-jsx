@@ -1,6 +1,7 @@
 import styled from "styled-components"
 import {Wrapper} from 'container/Container'
 import { bodyText, smallTitle } from "styles/TextStyles"
+import React from "react"
 
 const AboutFeatured = () => {
 

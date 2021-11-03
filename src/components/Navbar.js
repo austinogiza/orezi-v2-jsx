@@ -5,7 +5,7 @@ import { useState, useEffect } from "react"
 import { OreziTheme } from "styles/Color"
 import { useLocation } from "react-router"
 import { Link } from "react-router-dom"
-
+import React from "react"
 
 
 

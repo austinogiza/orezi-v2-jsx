@@ -56,8 +56,8 @@ const {
 
             <>
             <FormSent>
-                <Formtitle> Thank you for your mail🎉.</Formtitle>
-                <Formtext>I will be in touch.👋</Formtext>
+                <Formtitle> Thank you for your mail<span role="img" aria-label="Panda">🎉.</span></Formtitle>
+                <Formtext>I will be in touch.<span role="img" aria-label="Panda">👋</span></Formtext>
 <HomeButton  to='/'  className="orezi-btn">Head home</HomeButton>
             </FormSent>
 
